@@ -1,1 +1,1 @@
-A very simpel Bitwarden client helper
+## A very simpel Bitwarden client helper
