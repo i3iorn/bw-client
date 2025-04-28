@@ -1,7 +1,7 @@
 import setuptools
 
 setuptools.setup(
-    name="BW Client",
+    name="bw_client",
     version="0.1.0",
     author="Björn",
     author_email="bjorn@schrammel.dev",
